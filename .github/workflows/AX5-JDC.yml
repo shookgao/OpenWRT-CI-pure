@@ -32,7 +32,7 @@ jobs:
       fail-fast: false
       #max-parallel: 3
       matrix:
-        TARGET: [AX5-JDC-WIFI-YES, AX5-JDC-WIFI-NO]
+        TARGET: [AX5-JDC-WIFI-NO]
         SOURCE: [VIKINGYFY/immortalwrt]
         BRANCH: [main]
 
